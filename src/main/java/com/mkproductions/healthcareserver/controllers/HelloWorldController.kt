@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController
 class HelloWorldController {
     @RequestMapping(value = ["/"])
     fun sayHello(): String {
-        return "<center>Hello! World</center>"
+        return "Hello! World"
     }
 }
