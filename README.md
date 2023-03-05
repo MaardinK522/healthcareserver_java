@@ -1,2 +1,2 @@
 # healthcareserver_java
-Trying to implement server in JAva
+Trying to implement server in Java
